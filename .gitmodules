@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:jav/jobad-gender-decoder-frontend.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:jav/jobad-gender-decoder-backend.git
